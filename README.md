@@ -6,7 +6,7 @@ Saya Naeya Adeani Putri dengan NIM 2304017 mengerjakan Tugas Praktikum 3 dalam m
 ![TP3 drawio (1)](https://github.com/user-attachments/assets/46ce4baf-73db-4291-945c-c1e6b9fbf0f2)
 
 # Deskripsi Program
-Program ini merupakan implementasi konsep Object-Oriented Programming (OOP) yang dikembangkan dalam dua bahasa, yaitu C++ dan Python. Program ini bertujuan untuk mengelola sistem tenaga kerja dalam suatu organisasi, mencakup berbagai peran seperti Administrasi, Teknisi IT, Tenaga Kependidikan (Tendik), serta struktur Tim dan Unit Kerja.
+Program ini merupakan implementasi konsep Object-Oriented Programming (OOP) yang dikembangkan dalam dua bahasa, yaitu C++, Python dan Java. Program ini bertujuan untuk mengelola sistem tenaga kerja dalam suatu organisasi, mencakup berbagai peran seperti Administrasi, Teknisi IT, Tenaga Kependidikan (Tendik), serta struktur Tim dan Unit Kerja.
 
 # Desain Program
 
@@ -48,3 +48,6 @@ Setelah itu, tim akan ditempatkan ke dalam unit kerja yang sesuai dengan struktu
 
 ## PYTHON
 ![dokumentasi](https://github.com/user-attachments/assets/9db33bd2-28ea-404e-8573-9b46c1da38f2)
+
+## JAVA
+![dokumentasi](https://github.com/user-attachments/assets/d63a0404-ad94-452b-8cb2-a949827d167d)
